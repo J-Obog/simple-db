@@ -25,9 +25,16 @@ class QueryManager():
         items = self.getAll()
         res = filter(lambda item: item["_id"] == id, items)
         return list(res) 
+    
     ##UPDATE
     def setById(self, id): 
         pass
+
     ##DELETE
+    def removeById(self):
+        pass
+
+    def removeAll(self):
+        pass
 
 
