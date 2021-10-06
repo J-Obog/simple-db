@@ -1,2 +1,2 @@
 # simple-db
-A lightweight, NO-SQL database written in python for simple data access
+A lightweight, NoSQL database written in Python for simple data access
