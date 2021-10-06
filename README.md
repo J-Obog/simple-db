@@ -1,2 +1,3 @@
-# simple-db
-A lightweight, NoSQL database written in Python for simple data access
+![SimpleDB](https://i.ibb.co/LYGY9wt/simpleDB.png)
+
+A lightweight, NoSQL database for Python.
