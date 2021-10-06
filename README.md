@@ -1,3 +1,3 @@
-![SimpleDB](https://i.ibb.co/LYGY9wt/simpleDB.png)
+![SimpleDB](https://i.ibb.co/ZfGYTTH/simpleDB.png)
 
 A lightweight, NoSQL database for Python.
