@@ -2,6 +2,8 @@
 
 A lightweight, NoSQL database for Python.
 
+[![Build Status](https://app.travis-ci.com/J-Obog/simple-db.svg?branch=master)](https://app.travis-ci.com/github/J-Obog/simple-db)
+
 ## Installing:
 Installing with pip:
 ```
