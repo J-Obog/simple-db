@@ -4,6 +4,7 @@ class DB:
     def __init__(self, path):
         self.path = path
 
+    #file write interface
     def _file_manip(self, data):
         with open(self.path, 'w') as file:
             json.dump(data, file)
