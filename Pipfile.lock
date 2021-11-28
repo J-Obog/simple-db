@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "1993e1a1e40d76c6ad52ce517727bc8a173a0b62dc7a5cba63c089e9eade83b5"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "simple-db": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
