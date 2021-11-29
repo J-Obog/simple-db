@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 simple-db = {editable = true, path = "."}
 flask = "*"
+toml = "*"
 
 [requires]
 python_version = "3.6"

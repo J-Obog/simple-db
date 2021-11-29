@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a7d06d93d7b2d5c9778f2ebd83dc617783fa5671f428c0101a9f28d099a509aa"
+            "sha256": "0faa81741f4c92ace24fbd3b23daca64132776858d572852cba804acd474f595"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -150,6 +150,14 @@
         "simple-db": {
             "editable": true,
             "path": "."
+        },
+        "toml": {
+            "hashes": [
+                "sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b",
+                "sha256:b3bda1d108d5dd99f4a20d24d9c348e91c4db7ab1b749200bded2f839ccbe68f"
+            ],
+            "index": "pypi",
+            "version": "==0.10.2"
         },
         "typing-extensions": {
             "hashes": [
